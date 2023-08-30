@@ -1,0 +1,12 @@
+﻿RadialMenu QToolButton{
+    border: 0px solid;
+    padding: 0px;
+    background: #619DFE;
+
+    width: 48px;
+    height:48px;
+}
+
+RadialMenu QToolButton:hover{
+    background:#E94242;
+}

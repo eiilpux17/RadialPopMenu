@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/daochu.svg</file>
+        <file>res/geren.svg</file>
+        <file>res/shezhi2.svg</file>
+        <file>res/sousuo.svg</file>
+        <file>res/tuichu.svg</file>
+        <file>res/xiangqing.svg</file>
+        <file>stylesheet.qss</file>
+    </qresource>
+</RCC>
