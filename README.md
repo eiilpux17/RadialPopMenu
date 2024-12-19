@@ -1,6 +1,7 @@
 # RadialPopMenu
 放射式弹出菜单
-![radial pop menu](https://img.picgo.net/2024/12/19/popmenua1d3da7ec1a2a8a0.gif)
+
+![popmenu](https://github.com/user-attachments/assets/53a60501-f0ac-4b06-a73e-8cfeddef706a)
 
 ## 支持特性：
 
